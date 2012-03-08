@@ -1,9 +1,3 @@
-" Vim compiler file
-" Compiler:	htmllint
-" Maintainer:	Vain
-" URL:		http://
-" Last Change:	2004 May 7
-
 if exists("current_compiler")
   finish
 endif

@@ -1,0 +1,6 @@
+require Perl and htmllint installed
+
+in _vimrc
+let htmllint_path = path/to/htmllint
+
+open html and make!
